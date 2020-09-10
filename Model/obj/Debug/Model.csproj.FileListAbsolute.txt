@@ -1,0 +1,12 @@
+D:\用户目录\我的文档\Visual Studio 2013\Projects\IFDemo\Model\bin\Debug\Model.dll
+D:\用户目录\我的文档\Visual Studio 2013\Projects\IFDemo\Model\bin\Debug\Model.pdb
+D:\用户目录\我的文档\Visual Studio 2013\Projects\IFDemo\Model\obj\Debug\Model.dll
+D:\用户目录\我的文档\Visual Studio 2013\Projects\IFDemo\Model\obj\Debug\Model.pdb
+C:\Users\Administrator\Downloads\C#library(jb51.net)\IFDemo\Model\bin\Debug\Model.dll
+C:\Users\Administrator\Downloads\C#library(jb51.net)\IFDemo\Model\bin\Debug\Model.pdb
+C:\Users\Administrator\Downloads\C#library(jb51.net)\IFDemo\Model\obj\Debug\Model.dll
+C:\Users\Administrator\Downloads\C#library(jb51.net)\IFDemo\Model\obj\Debug\Model.pdb
+D:\school\class\C#\IFDemo\Model\bin\Debug\Model.dll
+D:\school\class\C#\IFDemo\Model\bin\Debug\Model.pdb
+D:\school\class\C#\IFDemo\Model\obj\Debug\Model.dll
+D:\school\class\C#\IFDemo\Model\obj\Debug\Model.pdb

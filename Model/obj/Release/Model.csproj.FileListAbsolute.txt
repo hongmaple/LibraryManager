@@ -1,0 +1,10 @@
+D:\school\class\C#\LibarayManage\Model\bin\Release\Model.dll
+D:\school\class\C#\LibarayManage\Model\bin\Release\Model.pdb
+D:\school\class\C#\LibarayManage\Model\obj\Release\Model.dll
+D:\school\class\C#\LibarayManage\Model\obj\Release\Model.pdb
+E:\LibraryManager-master\Model\bin\Release\Model.dll
+E:\LibraryManager-master\Model\bin\Release\Model.pdb
+E:\LibraryManager-master\Model\obj\Release\Model.csprojAssemblyReference.cache
+E:\LibraryManager-master\Model\obj\Release\Model.csproj.CoreCompileInputs.cache
+E:\LibraryManager-master\Model\obj\Release\Model.dll
+E:\LibraryManager-master\Model\obj\Release\Model.pdb

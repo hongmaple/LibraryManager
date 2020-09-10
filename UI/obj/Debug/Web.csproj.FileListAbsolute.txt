@@ -1,0 +1,60 @@
+d:\用户目录\我的文档\visual studio 2013\Projects\IFDemo\Web\bin\Debug\Web.exe.config
+d:\用户目录\我的文档\visual studio 2013\Projects\IFDemo\Web\bin\Debug\Web.exe
+d:\用户目录\我的文档\visual studio 2013\Projects\IFDemo\Web\bin\Debug\Web.pdb
+d:\用户目录\我的文档\visual studio 2013\Projects\IFDemo\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+d:\用户目录\我的文档\visual studio 2013\Projects\IFDemo\Web\obj\Debug\Web.Login.resources
+d:\用户目录\我的文档\visual studio 2013\Projects\IFDemo\Web\obj\Debug\Web.Properties.Resources.resources
+d:\用户目录\我的文档\visual studio 2013\Projects\IFDemo\Web\obj\Debug\Web.csproj.GenerateResource.Cache
+d:\用户目录\我的文档\visual studio 2013\Projects\IFDemo\Web\obj\Debug\Web.exe
+d:\用户目录\我的文档\visual studio 2013\Projects\IFDemo\Web\obj\Debug\Web.pdb
+D:\用户目录\我的文档\Visual Studio 2013\Projects\IFDemo\Web\obj\Debug\Web.FrmMain.resources
+D:\用户目录\我的文档\Visual Studio 2013\Projects\IFDemo\Web\bin\Debug\BLL.dll
+D:\用户目录\我的文档\Visual Studio 2013\Projects\IFDemo\Web\bin\Debug\Common.dll
+D:\用户目录\我的文档\Visual Studio 2013\Projects\IFDemo\Web\bin\Debug\DAL.dll
+D:\用户目录\我的文档\Visual Studio 2013\Projects\IFDemo\Web\bin\Debug\Model.dll
+D:\用户目录\我的文档\Visual Studio 2013\Projects\IFDemo\Web\bin\Debug\BLL.pdb
+D:\用户目录\我的文档\Visual Studio 2013\Projects\IFDemo\Web\bin\Debug\Common.pdb
+D:\用户目录\我的文档\Visual Studio 2013\Projects\IFDemo\Web\bin\Debug\DAL.pdb
+D:\用户目录\我的文档\Visual Studio 2013\Projects\IFDemo\Web\bin\Debug\Model.pdb
+D:\用户目录\我的文档\Visual Studio 2013\Projects\IFDemo\Web\obj\Debug\Web.BookInfoExit_UI.resources
+D:\用户目录\我的文档\Visual Studio 2013\Projects\IFDemo\Web\obj\Debug\Web.BookInfoManager_UI.resources
+D:\用户目录\我的文档\Visual Studio 2013\Projects\IFDemo\Web\obj\Debug\Web.BookInfoExitRows_UI.resources
+D:\用户目录\我的文档\Visual Studio 2013\Projects\IFDemo\Web\obj\Debug\Web.ReaderManager_UI.resources
+D:\用户目录\我的文档\Visual Studio 2013\Projects\IFDemo\Web\obj\Debug\Web.Add.resources
+D:\用户目录\我的文档\Visual Studio 2013\Projects\IFDemo\Web\obj\Debug\Web.BookInfoAdd_UI.resources
+D:\用户目录\我的文档\Visual Studio 2013\Projects\IFDemo\Web\obj\Debug\Web.ReaderAdd_UI.resources
+D:\用户目录\我的文档\Visual Studio 2013\Projects\IFDemo\Web\obj\Debug\Web.ReaderExit_UI.resources
+D:\用户目录\我的文档\Visual Studio 2013\Projects\IFDemo\Web\obj\Debug\Web.BorrowHostory_UI.resources
+D:\用户目录\我的文档\Visual Studio 2013\Projects\IFDemo\Web\obj\Debug\Web.BorrowManager_UI.resources
+D:\用户目录\我的文档\Visual Studio 2013\Projects\IFDemo\Web\obj\Debug\Web.Exit.resources
+D:\用户目录\我的文档\Visual Studio 2013\Projects\IFDemo\Web\obj\Debug\Web.Info_UI.resources
+C:\Users\Administrator\Downloads\C#library(jb51.net)\IFDemo\Web\bin\Debug\Web.exe.config
+C:\Users\Administrator\Downloads\C#library(jb51.net)\IFDemo\Web\bin\Debug\Web.exe
+C:\Users\Administrator\Downloads\C#library(jb51.net)\IFDemo\Web\bin\Debug\Web.pdb
+C:\Users\Administrator\Downloads\C#library(jb51.net)\IFDemo\Web\bin\Debug\BLL.dll
+C:\Users\Administrator\Downloads\C#library(jb51.net)\IFDemo\Web\bin\Debug\Common.dll
+C:\Users\Administrator\Downloads\C#library(jb51.net)\IFDemo\Web\bin\Debug\DAL.dll
+C:\Users\Administrator\Downloads\C#library(jb51.net)\IFDemo\Web\bin\Debug\Model.dll
+C:\Users\Administrator\Downloads\C#library(jb51.net)\IFDemo\Web\bin\Debug\BLL.pdb
+C:\Users\Administrator\Downloads\C#library(jb51.net)\IFDemo\Web\bin\Debug\Common.pdb
+C:\Users\Administrator\Downloads\C#library(jb51.net)\IFDemo\Web\bin\Debug\DAL.pdb
+C:\Users\Administrator\Downloads\C#library(jb51.net)\IFDemo\Web\bin\Debug\Model.pdb
+C:\Users\Administrator\Downloads\C#library(jb51.net)\IFDemo\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Downloads\C#library(jb51.net)\IFDemo\Web\obj\Debug\Web.Add.resources
+C:\Users\Administrator\Downloads\C#library(jb51.net)\IFDemo\Web\obj\Debug\Web.BookInfoAdd_UI.resources
+C:\Users\Administrator\Downloads\C#library(jb51.net)\IFDemo\Web\obj\Debug\Web.BookInfoExitRows_UI.resources
+C:\Users\Administrator\Downloads\C#library(jb51.net)\IFDemo\Web\obj\Debug\Web.BookInfoExit_UI.resources
+C:\Users\Administrator\Downloads\C#library(jb51.net)\IFDemo\Web\obj\Debug\Web.BookInfoManager_UI.resources
+C:\Users\Administrator\Downloads\C#library(jb51.net)\IFDemo\Web\obj\Debug\Web.BorrowHostory_UI.resources
+C:\Users\Administrator\Downloads\C#library(jb51.net)\IFDemo\Web\obj\Debug\Web.BorrowManager_UI.resources
+C:\Users\Administrator\Downloads\C#library(jb51.net)\IFDemo\Web\obj\Debug\Web.Exit.resources
+C:\Users\Administrator\Downloads\C#library(jb51.net)\IFDemo\Web\obj\Debug\Web.FrmMain.resources
+C:\Users\Administrator\Downloads\C#library(jb51.net)\IFDemo\Web\obj\Debug\Web.Info_UI.resources
+C:\Users\Administrator\Downloads\C#library(jb51.net)\IFDemo\Web\obj\Debug\Web.Login.resources
+C:\Users\Administrator\Downloads\C#library(jb51.net)\IFDemo\Web\obj\Debug\Web.Properties.Resources.resources
+C:\Users\Administrator\Downloads\C#library(jb51.net)\IFDemo\Web\obj\Debug\Web.ReaderAdd_UI.resources
+C:\Users\Administrator\Downloads\C#library(jb51.net)\IFDemo\Web\obj\Debug\Web.ReaderExit_UI.resources
+C:\Users\Administrator\Downloads\C#library(jb51.net)\IFDemo\Web\obj\Debug\Web.ReaderManager_UI.resources
+C:\Users\Administrator\Downloads\C#library(jb51.net)\IFDemo\Web\obj\Debug\Web.csproj.GenerateResource.Cache
+C:\Users\Administrator\Downloads\C#library(jb51.net)\IFDemo\Web\obj\Debug\Web.exe
+C:\Users\Administrator\Downloads\C#library(jb51.net)\IFDemo\Web\obj\Debug\Web.pdb

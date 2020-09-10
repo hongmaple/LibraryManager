@@ -1,0 +1,301 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{4C3D5D53-7AA1-44A9-BD68-8DFBB93797EB}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>UI</RootNamespace>
+    <AssemblyName>UI</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="TypeManage_UI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TypeManage_UI.Designer.cs">
+      <DependentUpon>TypeManage_UI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BookInfoAdd_UI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BookInfoAdd_UI.Designer.cs">
+      <DependentUpon>BookInfoAdd_UI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BookInfoEditRows_UI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BookInfoEditRows_UI.Designer.cs">
+      <DependentUpon>BookInfoEditRows_UI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BookInfoEdit_UI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BookInfoEdit_UI.Designer.cs">
+      <DependentUpon>BookInfoEdit_UI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BookInfoManage_UI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BookInfoManage_UI.Designer.cs">
+      <DependentUpon>BookInfoManage_UI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BorrowHostory_UI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BorrowHostory_UI.Designer.cs">
+      <DependentUpon>BorrowHostory_UI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BorrowManage_UI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BorrowManage_UI.Designer.cs">
+      <DependentUpon>BorrowManage_UI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="List_UI.cs" />
+    <Compile Include="Edit_UI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Edit_UI.Designer.cs">
+      <DependentUpon>Edit_UI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main_UI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main_UI.Designer.cs">
+      <DependentUpon>Main_UI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Info_UI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Info_UI.Designer.cs">
+      <DependentUpon>Info_UI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login_UI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login_UI.Designer.cs">
+      <DependentUpon>Login_UI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UserAdd_UI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserAdd_UI.Designer.cs">
+      <DependentUpon>UserAdd_UI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserEdit_UI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserEdit_UI.Designer.cs">
+      <DependentUpon>UserEdit_UI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserManage_UI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserManage_UI.Designer.cs">
+      <DependentUpon>UserManage_UI.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="TypeManage_UI.resx">
+      <DependentUpon>TypeManage_UI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BookInfoAdd_UI.resx">
+      <DependentUpon>BookInfoAdd_UI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BookInfoEditRows_UI.resx">
+      <DependentUpon>BookInfoEditRows_UI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BookInfoEdit_UI.resx">
+      <DependentUpon>BookInfoEdit_UI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BookInfoManage_UI.resx">
+      <DependentUpon>BookInfoManage_UI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BorrowHostory_UI.resx">
+      <DependentUpon>BorrowHostory_UI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BorrowManage_UI.resx">
+      <DependentUpon>BorrowManage_UI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Edit_UI.resx">
+      <DependentUpon>Edit_UI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main_UI.resx">
+      <DependentUpon>Main_UI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Info_UI.resx">
+      <DependentUpon>Info_UI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login_UI.resx">
+      <DependentUpon>Login_UI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="UserAdd_UI.resx">
+      <DependentUpon>UserAdd_UI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserEdit_UI.resx">
+      <DependentUpon>UserEdit_UI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserManage_UI.resx">
+      <DependentUpon>UserManage_UI.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BLL\BLL.csproj">
+      <Project>{d4f18d93-5f9c-4187-bff2-3f144dc28252}</Project>
+      <Name>BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DAL\DAL.csproj">
+      <Project>{9af87eca-c92c-430a-abb8-53794298fb19}</Project>
+      <Name>DAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Model\Model.csproj">
+      <Project>{534c572a-1c8d-46a3-a77d-322bde5b1543}</Project>
+      <Name>Model</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Image\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Log_bkgrd.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 %28x86 和 x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\library.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\library2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\library3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Record.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\about.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\out.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gear.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\File.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user_man_info.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user_man_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

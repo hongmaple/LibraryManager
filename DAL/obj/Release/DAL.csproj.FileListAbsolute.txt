@@ -1,0 +1,16 @@
+D:\school\class\C#\LibarayManage\DAL\bin\Release\DAL.dll
+D:\school\class\C#\LibarayManage\DAL\bin\Release\DAL.pdb
+D:\school\class\C#\LibarayManage\DAL\bin\Release\Model.dll
+D:\school\class\C#\LibarayManage\DAL\bin\Release\Model.pdb
+D:\school\class\C#\LibarayManage\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+D:\school\class\C#\LibarayManage\DAL\obj\Release\DAL.dll
+D:\school\class\C#\LibarayManage\DAL\obj\Release\DAL.pdb
+E:\LibraryManager-master\DAL\bin\Release\DAL.dll
+E:\LibraryManager-master\DAL\bin\Release\DAL.pdb
+E:\LibraryManager-master\DAL\bin\Release\Model.dll
+E:\LibraryManager-master\DAL\bin\Release\Model.pdb
+E:\LibraryManager-master\DAL\obj\Release\DAL.csprojAssemblyReference.cache
+E:\LibraryManager-master\DAL\obj\Release\DAL.csproj.CoreCompileInputs.cache
+E:\LibraryManager-master\DAL\obj\Release\DAL.csproj.CopyComplete
+E:\LibraryManager-master\DAL\obj\Release\DAL.dll
+E:\LibraryManager-master\DAL\obj\Release\DAL.pdb

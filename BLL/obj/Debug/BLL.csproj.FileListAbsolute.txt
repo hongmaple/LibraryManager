@@ -1,0 +1,29 @@
+D:\用户目录\我的文档\Visual Studio 2013\Projects\IFDemo\BLL\bin\Debug\BLL.dll
+D:\用户目录\我的文档\Visual Studio 2013\Projects\IFDemo\BLL\bin\Debug\BLL.pdb
+D:\用户目录\我的文档\Visual Studio 2013\Projects\IFDemo\BLL\bin\Debug\Common.dll
+D:\用户目录\我的文档\Visual Studio 2013\Projects\IFDemo\BLL\bin\Debug\DAL.dll
+D:\用户目录\我的文档\Visual Studio 2013\Projects\IFDemo\BLL\bin\Debug\Model.dll
+D:\用户目录\我的文档\Visual Studio 2013\Projects\IFDemo\BLL\bin\Debug\Common.pdb
+D:\用户目录\我的文档\Visual Studio 2013\Projects\IFDemo\BLL\bin\Debug\DAL.pdb
+D:\用户目录\我的文档\Visual Studio 2013\Projects\IFDemo\BLL\bin\Debug\Model.pdb
+D:\用户目录\我的文档\Visual Studio 2013\Projects\IFDemo\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\用户目录\我的文档\Visual Studio 2013\Projects\IFDemo\BLL\obj\Debug\BLL.dll
+D:\用户目录\我的文档\Visual Studio 2013\Projects\IFDemo\BLL\obj\Debug\BLL.pdb
+C:\Users\Administrator\Downloads\C#library(jb51.net)\IFDemo\BLL\bin\Debug\BLL.dll
+C:\Users\Administrator\Downloads\C#library(jb51.net)\IFDemo\BLL\bin\Debug\BLL.pdb
+C:\Users\Administrator\Downloads\C#library(jb51.net)\IFDemo\BLL\bin\Debug\DAL.dll
+C:\Users\Administrator\Downloads\C#library(jb51.net)\IFDemo\BLL\bin\Debug\Model.dll
+C:\Users\Administrator\Downloads\C#library(jb51.net)\IFDemo\BLL\bin\Debug\DAL.pdb
+C:\Users\Administrator\Downloads\C#library(jb51.net)\IFDemo\BLL\bin\Debug\Model.pdb
+C:\Users\Administrator\Downloads\C#library(jb51.net)\IFDemo\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Downloads\C#library(jb51.net)\IFDemo\BLL\obj\Debug\BLL.dll
+C:\Users\Administrator\Downloads\C#library(jb51.net)\IFDemo\BLL\obj\Debug\BLL.pdb
+D:\school\class\C#\IFDemo\BLL\bin\Debug\BLL.dll
+D:\school\class\C#\IFDemo\BLL\bin\Debug\BLL.pdb
+D:\school\class\C#\IFDemo\BLL\bin\Debug\DAL.dll
+D:\school\class\C#\IFDemo\BLL\bin\Debug\Model.dll
+D:\school\class\C#\IFDemo\BLL\bin\Debug\DAL.pdb
+D:\school\class\C#\IFDemo\BLL\bin\Debug\Model.pdb
+D:\school\class\C#\IFDemo\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\school\class\C#\IFDemo\BLL\obj\Debug\BLL.dll
+D:\school\class\C#\IFDemo\BLL\obj\Debug\BLL.pdb

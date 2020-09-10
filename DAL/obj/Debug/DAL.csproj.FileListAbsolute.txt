@@ -1,0 +1,21 @@
+d:\用户目录\我的文档\visual studio 2013\Projects\IFDemo\DAL\bin\Debug\DAL.dll
+d:\用户目录\我的文档\visual studio 2013\Projects\IFDemo\DAL\bin\Debug\DAL.pdb
+d:\用户目录\我的文档\visual studio 2013\Projects\IFDemo\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+d:\用户目录\我的文档\visual studio 2013\Projects\IFDemo\DAL\obj\Debug\DAL.dll
+d:\用户目录\我的文档\visual studio 2013\Projects\IFDemo\DAL\obj\Debug\DAL.pdb
+D:\用户目录\我的文档\Visual Studio 2013\Projects\IFDemo\DAL\bin\Debug\Model.dll
+D:\用户目录\我的文档\Visual Studio 2013\Projects\IFDemo\DAL\bin\Debug\Model.pdb
+C:\Users\Administrator\Downloads\C#library(jb51.net)\IFDemo\DAL\bin\Debug\DAL.dll
+C:\Users\Administrator\Downloads\C#library(jb51.net)\IFDemo\DAL\bin\Debug\DAL.pdb
+C:\Users\Administrator\Downloads\C#library(jb51.net)\IFDemo\DAL\bin\Debug\Model.dll
+C:\Users\Administrator\Downloads\C#library(jb51.net)\IFDemo\DAL\bin\Debug\Model.pdb
+C:\Users\Administrator\Downloads\C#library(jb51.net)\IFDemo\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Downloads\C#library(jb51.net)\IFDemo\DAL\obj\Debug\DAL.dll
+C:\Users\Administrator\Downloads\C#library(jb51.net)\IFDemo\DAL\obj\Debug\DAL.pdb
+D:\school\class\C#\IFDemo\DAL\bin\Debug\DAL.dll
+D:\school\class\C#\IFDemo\DAL\bin\Debug\DAL.pdb
+D:\school\class\C#\IFDemo\DAL\bin\Debug\Model.dll
+D:\school\class\C#\IFDemo\DAL\bin\Debug\Model.pdb
+D:\school\class\C#\IFDemo\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\school\class\C#\IFDemo\DAL\obj\Debug\DAL.dll
+D:\school\class\C#\IFDemo\DAL\obj\Debug\DAL.pdb
